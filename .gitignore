@@ -1,0 +1,8 @@
+.cache/
+outputs/
+artifacts/
+data/demo/*.wav
+data/enroll/*.wav
+*.webm
+*.mp4
+__pycache__/
